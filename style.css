@@ -40,12 +40,6 @@ display: flex; align-items: center; text-align: center; color: #fff; padding-top
 .price { font-weight: bold; color: #9b51e0; margin-top: 0.5rem; }
 
 
- /* Form */
-.form-container { max-width: 550px; }
-.order-form { display: flex; flex-direction: column; gap: 1rem; margin-top: 1rem; }
-.order-form input, .order-form textarea { width: 100%; padding: 0.9rem; border: 1px solid #ccc; border-radius: 6px; font-family: inherit; }
-
-
 /* Contact Info & Socials */
 .contact-info-section { border-top: 1px solid #eee; }
 .info-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin-top: 1.5rem; text-align: center; }
