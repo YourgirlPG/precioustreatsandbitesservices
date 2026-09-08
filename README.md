@@ -24,5 +24,5 @@ A mobile-responsive, modern landing page built using pure **HTML5** and **CSS3**
 
 ## 👤 Developer
 
-- **GitHub:** (https://github.com/@YourgirlPG)
+- **GitHub:** (https://github.com/YourgirlPG)
 - **LinkedIn:** (https://www.linkedin.com/in/precious-babatunde-gnse-gnieee-50b831302)
