@@ -6,6 +6,10 @@ A mobile-responsive, modern landing page built using pure **HTML** and **CSS**. 
 
 ---
 
+https://github.com/user-attachments/assets/fda0ce10-96d2-4111-9d87-42c56b4ae0c1
+
+---
+
 ## 🚀 Key Features
 
 - **📱 Responsive Layout:** Optimized across deskstop, tablet, and mobile screens.
